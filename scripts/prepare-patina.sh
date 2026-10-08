@@ -28,4 +28,5 @@ apply() {
 }
 
 apply patina-paging paging-protection-only-attributes.patch
+apply patina dxe-core-loaded-image-system-table.patch
 apply patina dxe-core-protocols-next-arg.patch
